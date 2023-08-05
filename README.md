@@ -7,7 +7,7 @@ This repository contains my personal dotfiles, including my .zshrc, .tmux.conf, 
 To install these dotfiles on your own system, you can use the following curl command:
 
 ```
-curl -L https://raw.githubusercontent.com/e205723/dotfiles/main/run.sh | sh
+curl -L https://raw.githubusercontent.com/ie-Yoshisaur/dotfiles/main/run.sh | sh
 ```
 
 This command will download and execute the `run.sh` script, which will download and install the dotfiles in the appropriate locations.
